@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          Grant David Bachman
 paginate:       5
 baseurl:        ""
 url:            "https://grantbachman.github.io"
